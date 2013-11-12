@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+
+width: 300px;
+background-color: #cccccc;
+border: 1px solid #999999;
+-moz-box-shadow: 3px 3px 3px #aaaaaa;
+-webkit-box-shadow: 3px 3px 3px #aaaaaa;
+box-shadow: 3px 3px 3px #aaaaaa;
+padding: 15px 15px 15px 15px;
+					
